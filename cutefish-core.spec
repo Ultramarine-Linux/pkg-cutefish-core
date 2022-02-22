@@ -6,7 +6,7 @@
 
 Name: cutefish-%{component_name}
 Version: 0.7
-Release: 2%{?dist}
+Release: 3%{?dist}
 License: GPLv3
 Summary: System components, backend, and session files for Cutefish Desktop
 
